@@ -16,6 +16,6 @@ namespace LanesOnlineStore.Models
 
 
         public Category Category { get; set; }
-        public Producer Producer { get; set; }
+        public Customer Customer { get; set; }
     }
 }
